@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+\$scope.${1:함수명} = function() {
+
+};
+]]></content>
+<tabTrigger>ng-scope-function</tabTrigger>
+<scope>source.js</scope>
+</snippet>
